@@ -18,6 +18,8 @@ The purpose of this assignment is to establish fundamental concepts of IC design
 ## 🛠️ Tools Used
 * **Primary Schematic Simulator:** `Logisim` (Recommended offline digital logic simulator)
 * *Alternative environments:* CircuitVerse, Falstad, or Digital (by H. Neemann)
+* 🔧 To view and test the circuits, please download the `.circ` file and open it using **Logisim**.
+
 
 ---
 
